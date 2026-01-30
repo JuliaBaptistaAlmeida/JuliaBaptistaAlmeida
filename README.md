@@ -23,7 +23,7 @@
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Projeto em destaque
 
 🐍 **Gerador de Famílias – The Sims 4 (Python)**  
 Programa desenvolvido em Python que gera famílias aleatórias para o jogo The Sims 4, permitindo ao usuário definir a quantidade de Sims (1 a 8).  
@@ -32,14 +32,6 @@ Cada integrante da família é criado com:
 - Raça/criatura (humano, vampiro, sereia, gato, cavalo, entre outros);
 - Traços de personalidade sorteados automaticamente;
 O projeto utiliza estruturas de repetição, listas e funções para organizar a lógica e tornar o código reutilizável e fácil de expandir.
-
-☕ **Criador de Personagens – Baldur’s Gate 3 (Java)**  
-Projeto em Java inspirado no sistema de criação de personagens de Baldur’s Gate 3, com foco em **Programação Orientada a Objetos**.  
-O sistema permite:
-- Criação de personagens com nome, raça e classe;
-- Definição de atributos principais;
-- Organização do código usando classes, métodos, arrays e estruturas de repetição;
-O objetivo do projeto é praticar a modelagem de objetos e a estruturação de sistemas mais próximos de aplicações reais.
 
 ---
 
