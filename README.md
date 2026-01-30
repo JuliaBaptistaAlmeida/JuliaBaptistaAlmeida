@@ -7,7 +7,7 @@
 
 ## 📚 Cursos realizados
 - Python Completo (Curso em Vídeo)
-- Java ]= POO (Udemy)
+- Java + POO (Udemy)
 - Git e GitHub (Curso em Vídeo)
 - Machine Learning and AI with Python (Harvard)
 
