@@ -1,6 +1,8 @@
 ## 👩‍💻 Olá! Eu sou a Julia
 🎓 Estudante de **Sistemas de Informação**, atualmente cursando o 4º semestre na *Universidade São Judas Tadeu*.
+
 💡 Interessada em **desenvolvimento Full Stack**.
+
 🚀 Aprendo colocando a mão na massa e desenvolvendo projetos práticos e divertidos.
 
 ---
