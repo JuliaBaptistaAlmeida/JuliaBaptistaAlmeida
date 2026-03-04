@@ -10,8 +10,8 @@
 ## 📚 Cursos realizados
 - Python Completo (Curso em Vídeo)
 - Java + POO (Udemy)
-- Git e GitHub (Curso em Vídeo)
 - Javascript (Curso em Vídeo)
+- Git e GitHub (Curso em Vídeo)
 - Machine Learning and AI with Python (Harvard)
 
 ---
