@@ -1,4 +1,4 @@
-## 👩‍💻 Oii! Me chamo Julia Baptista
+## Oii! Me chamo Julia Baptista
 🎓 Estudante de **Sistemas de Informação**, atualmente cursando o 4º semestre na *Universidade São Judas Tadeu*.
 
 💡 Interessada em **desenvolvimento Full Stack**.
