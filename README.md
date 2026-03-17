@@ -36,11 +36,10 @@ Programa desenvolvido em Python que gera famílias aleatórias para o jogo The S
 O projeto utiliza estruturas de repetição, listas e funções para organizar a lógica e tornar o código reutilizável e fácil de expandir.
 
 🎲 **Criador de Personagens – Baldur’s Gate 3 (Python)**
-Projeto em Python inspirado no sistema de criação de personagens de Baldur’s Gate 3, com foco na prática de lógica de programação e estruturas básicas da linguagem.
-O sistema permite:
+Projeto em Python inspirado no sistema de criação de personagens de Baldur’s Gate 3, com foco na prática de lógica de programação e estruturas da linguagem. O sistema permite:
 - Geração aleatória de personagens com raça, classe e histórico;
 - Seleção de variações como sub-raças, subclasses e características específicas;
-- Uso de listas, condicionais (if/elif), laços de repetição (while) e entrada de dados pelo usuário;
+- Uso de listas, condicionais (if/elif), laços de repetição (while) e validação de dados;
 O objetivo do projeto é desenvolver a lógica, a organização do código e a familiaridade com a sintaxe do Python, simulando sistemas simples inspirados em jogos.
 
 ---
