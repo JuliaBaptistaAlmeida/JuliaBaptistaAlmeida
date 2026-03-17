@@ -1,4 +1,4 @@
-## <span style="color:#ff69b4">Oii! Me chamo Julia Baptista</span>
+## ![Oii! Me chamo Julia Baptista](https://img.shields.io/badge/Oii!%20Me%20chamo%20Julia%20Baptista-ff69b4?style=for-the-badge)
 🎓 Estudante de **Sistemas de Informação**, atualmente cursando o 4º semestre na *Universidade São Judas Tadeu*.
 
 💡 Interessada em **desenvolvimento Full Stack**.
@@ -7,7 +7,7 @@
 
 ---
 
-## <span style="color:#ff69b4">📚 Cursos realizados</span>
+## ![📚 Cursos realizados](https://img.shields.io/badge/📚%20Cursos%20realizados-ff69b4?style=for-the-badge)
 - Python Completo + POO (Curso em Vídeo)
 - JavaScript (Curso em Vídeo)
 - HTML + CSS (Curso em Vídeo)
@@ -16,7 +16,7 @@
 
 ---
 
-## <span style="color:#ff69b4">🛠️ Tecnologias e ferramentas</span>
+## ![🛠️ Tecnologias e ferramentas](https://img.shields.io/badge/🛠️%20Tecnologias%20e%20ferramentas-ff69b4?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -26,17 +26,17 @@
 
 ---
 
-## <span style="color:#ff69b4">📌 Projetos em destaque</span>
+## ![📌 Projetos em destaque](https://img.shields.io/badge/📌%20Projetos%20em%20destaque-ff69b4?style=for-the-badge)
 
 👨‍👩‍👧‍👦 **Gerador de Famílias – The Sims 4 (Python)**  
-Programa desenvolvido em Python que gera famílias aleatórias para o jogo The Sims 4, permitindo ao usuário definir a quantidade de Sims (1 a 8).  Cada integrante da família é criado com:
+Programa desenvolvido em Python que gera famílias aleatórias para o jogo The Sims 4, permitindo ao usuário definir a quantidade de Sims (1 a 8). Cada integrante da família é criado com:
 - Gênero e idade;
 - Raça/criatura (humano, vampiro, sereia, gato, cavalo, entre outros);
 - Traços de personalidade sorteados automaticamente.
 
 O projeto utiliza estruturas de repetição, listas e funções para organizar a lógica e tornar o código reutilizável e fácil de expandir.
 
-🎲 **Criador de Personagens – Baldur’s Gate 3 (Python)**
+🎲 **Criador de Personagens – Baldur’s Gate 3 (Python)**  
 Projeto em Python inspirado no sistema de criação de personagens de Baldur’s Gate 3, com foco na prática de lógica de programação e estruturas da linguagem. O sistema permite:
 - Geração aleatória de personagens com raça, classe e histórico;
 - Seleção de variações como sub-raças, subclasses e características específicas;
@@ -46,11 +46,11 @@ O objetivo do projeto é desenvolver a lógica, a organização do código e a f
 
 ---
 
-## <span style="color:#ff69b4">🌱 Em constante evolução</span>
+## ![🌱 Em constante evolução](https://img.shields.io/badge/🌱%20Em%20constante%20evolução-ff69b4?style=for-the-badge)
 Estou sempre buscando aprender novas tecnologias, melhorar meus projetos e evoluir como desenvolvedora, um passo de cada vez.
 
 ---
 
-## <span style="color:#ff69b4">🔗 Onde me encontrar</span>
+## ![🔗 Onde me encontrar](https://img.shields.io/badge/🔗%20Onde%20me%20encontrar-ff69b4?style=for-the-badge)
 💼 LinkedIn: *https://www.linkedin.com/in/juliabaptistaalmeida/*  
 📫 Email: *contatojuliabaptista@hotmail.com*
