@@ -8,9 +8,9 @@
 ---
 
 ## 📚 Cursos realizados
-- Python Completo (Curso em Vídeo)
-- Java + POO (Udemy)
+- Python Completo + POO (Curso em Vídeo)
 - JavaScript (Curso em Vídeo)
+- HTML + CSS (Curso em Vídeo)
 - Git e GitHub (Curso em Vídeo)
 - Machine Learning and AI with Python (Harvard)
 
@@ -35,14 +35,6 @@ Cada integrante da família é criado com:
 - Raça/criatura (humano, vampiro, sereia, gato, cavalo, entre outros);
 - Traços de personalidade sorteados automaticamente;
 O projeto utiliza estruturas de repetição, listas e funções para organizar a lógica e tornar o código reutilizável e fácil de expandir.
-
-☕ **Criador de Personagens – Baldur’s Gate 3 (Java)**  
-Projeto em Java inspirado no sistema de criação de personagens de Baldur’s Gate 3, com foco em **Programação Orientada a Objetos**.  
-O sistema permite:
-- Criação de personagens com nome, raça e classe;
-- Definição de atributos principais;
-- Organização do código usando classes, métodos, arrays, estruturas de repetição e decisão;
-O objetivo do projeto é praticar a estruturação de sistemas mais próximos de aplicações reais.
 
 ---
 
