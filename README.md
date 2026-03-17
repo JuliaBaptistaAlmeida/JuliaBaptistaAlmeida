@@ -1,4 +1,4 @@
-## Oii! Me chamo Julia Baptista
+## <span style="color:#ff69b4">Oii! Me chamo Julia Baptista</span>
 🎓 Estudante de **Sistemas de Informação**, atualmente cursando o 4º semestre na *Universidade São Judas Tadeu*.
 
 💡 Interessada em **desenvolvimento Full Stack**.
@@ -7,7 +7,7 @@
 
 ---
 
-## 📚 Cursos realizados
+## <span style="color:#ff69b4">📚 Cursos realizados</span>
 - Python Completo + POO (Curso em Vídeo)
 - JavaScript (Curso em Vídeo)
 - HTML + CSS (Curso em Vídeo)
@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## <span style="color:#ff69b4">🛠️ Tecnologias e ferramentas</span>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -26,7 +26,7 @@
 
 ---
 
-## 📌 Projetos em destaque
+## <span style="color:#ff69b4">📌 Projetos em destaque</span>
 
 👨‍👩‍👧‍👦 **Gerador de Famílias – The Sims 4 (Python)**  
 Programa desenvolvido em Python que gera famílias aleatórias para o jogo The Sims 4, permitindo ao usuário definir a quantidade de Sims (1 a 8).  Cada integrante da família é criado com:
@@ -46,11 +46,11 @@ O objetivo do projeto é desenvolver a lógica, a organização do código e a f
 
 ---
 
-## 🌱 Em constante evolução
+## <span style="color:#ff69b4">🌱 Em constante evolução</span>
 Estou sempre buscando aprender novas tecnologias, melhorar meus projetos e evoluir como desenvolvedora, um passo de cada vez.
 
 ---
 
-## 🔗 Onde me encontrar
+## <span style="color:#ff69b4">🔗 Onde me encontrar</span>
 💼 LinkedIn: *https://www.linkedin.com/in/juliabaptistaalmeida/*  
 📫 Email: *contatojuliabaptista@hotmail.com*
