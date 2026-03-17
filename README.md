@@ -12,7 +12,7 @@
 
 - Python Completo + POO (Curso em Vídeo)
 - JavaScript (Curso em Vídeo)
-- HTML + CSS (Curso em Vídeo)
+- HTML5 + CSS3 (Curso em Vídeo)
 - Git e GitHub (Curso em Vídeo)
 - Machine Learning and AI with Python (Harvard)
 
