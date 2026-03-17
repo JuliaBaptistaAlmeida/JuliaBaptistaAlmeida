@@ -1,4 +1,7 @@
-<h2 style="color:#ff69b4;">👩‍💻 Olá! Eu sou a Julia</h2>
+<font color="#ff69b4">
+
+## 👩‍💻 Olá! Eu sou a Julia
+</font>
 
 🎓 Estudante de Sistemas de Informação, atualmente cursando o 4º semestre na Universidade São Judas Tadeu.
 
@@ -8,7 +11,10 @@
 
 ---
 
-<h2 style="color:#ff69b4;">📚 Cursos realizados</h2>
+<font color="#ff69b4">
+
+## 📚 Cursos realizados
+</font>
 
 - Python Completo (Curso em Vídeo)
 - Java + POO (Udemy)
@@ -18,7 +24,10 @@
 
 ---
 
-<h2 style="color:#ff69b4;">🛠️ Tecnologias e ferramentas</h2>
+<font color="#ff69b4">
+
+## 🛠️ Tecnologias e ferramentas
+</font>
 
 Python
 Java
@@ -30,7 +39,10 @@ GitHub
 
 ---
 
-<h2 style="color:#ff69b4;">📌 Projeto em destaque</h2>
+<font color="#ff69b4">
+
+## 📌 Projeto em destaque
+</font>
 
 🐍 Gerador de Famílias – The Sims 4 (Python)  
 Programa desenvolvido em Python que gera famílias aleatórias para o jogo The Sims 4, permitindo ao usuário definir a quantidade de Sims (1 a 8).  
@@ -50,13 +62,19 @@ O objetivo do projeto é praticar a estruturação de sistemas mais próximos de
 
 ---
 
-<h2 style="color:#ff69b4;">🌱 Em constante evolução</h2>
+<font color="#ff69b4">
+
+## 🌱 Em constante evolução
+</font>
 
 Estou sempre buscando aprender novas tecnologias, melhorar meus projetos e evoluir como desenvolvedora, um passo de cada vez.
 
 ---
 
-<h2 style="color:#ff69b4;">🔗 Onde me encontrar</h2>
+<font color="#ff69b4">
+
+## 🔗 Onde me encontrar
+</font>
 
 💼 LinkedIn: https://www.linkedin.com/in/juliabaptistaalmeida/  
 📫 Email: *contatojuliabaptista@hotmail.com
