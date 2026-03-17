@@ -32,7 +32,7 @@
 Programa desenvolvido em Python que gera famílias aleatórias para o jogo The Sims 4, permitindo ao usuário definir a quantidade de Sims (1 a 8).  Cada integrante da família é criado com:
 - Gênero e idade;
 - Raça/criatura (humano, vampiro, sereia, gato, cavalo, entre outros);
-- Traços de personalidade sorteados automaticamente;
+- Traços de personalidade sorteados automaticamente.
 O projeto utiliza estruturas de repetição, listas e funções para organizar a lógica e tornar o código reutilizável e fácil de expandir.
 
 🎲 **Criador de Personagens – Baldur’s Gate 3 (Python)**
