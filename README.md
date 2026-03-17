@@ -29,8 +29,7 @@
 ## 📌 Projeto em destaque
 
 👨‍👩‍👧‍👦 **Gerador de Famílias – The Sims 4 (Python)**  
-Programa desenvolvido em Python que gera famílias aleatórias para o jogo The Sims 4, permitindo ao usuário definir a quantidade de Sims (1 a 8).  
-Cada integrante da família é criado com:
+Programa desenvolvido em Python que gera famílias aleatórias para o jogo The Sims 4, permitindo ao usuário definir a quantidade de Sims (1 a 8).  Cada integrante da família é criado com:
 - Gênero e idade;
 - Raça/criatura (humano, vampiro, sereia, gato, cavalo, entre outros);
 - Traços de personalidade sorteados automaticamente;
