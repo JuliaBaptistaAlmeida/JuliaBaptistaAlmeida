@@ -8,7 +8,7 @@
 
 ---
 
-## !📚 Cursos realizados
+## 📚 Cursos realizados
 
 - Python Completo + POO (Curso em Vídeo)
 - JavaScript (Curso em Vídeo)
