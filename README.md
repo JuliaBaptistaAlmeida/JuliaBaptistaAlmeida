@@ -1,6 +1,6 @@
 ## Oii! Me chamo Julia Baptista
 
-🎓 Estudante de **Sistemas de Informação**, atualmente cursando o 4º semestre na *Universidade São Judas Tadeu*.
+🎓 Estudante de **Sistemas de Informação**, atualmente cursando o 5º semestre na *Universidade São Judas Tadeu*.
 
 💡 Interessada em **desenvolvimento Full Stack**.
 
