@@ -8,16 +8,6 @@
 
 ---
 
-## 📚 Cursos realizados
-
-- Python Completo + POO (Curso em Vídeo)
-- JavaScript (Curso em Vídeo)
-- HTML5 + CSS3 (Curso em Vídeo)
-- Git e GitHub (Curso em Vídeo)
-- Machine Learning and AI with Python (Harvard)
-
----
-
 ## 🛠️ Tecnologias e ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -48,6 +38,16 @@ Projeto em Python inspirado no sistema de criação de personagens de Baldur’s
 - Uso de listas, condicionais (if/elif), laços de repetição (while) e validação de dados;
 
 O objetivo do projeto é desenvolver a lógica, a organização do código e a familiaridade com a sintaxe do Python, simulando sistemas simples inspirados em jogos.
+
+---
+
+## 📚 Cursos realizados
+
+- Python Completo + POO (Curso em Vídeo)
+- JavaScript (Curso em Vídeo)
+- HTML5 + CSS3 (Curso em Vídeo)
+- Git e GitHub (Curso em Vídeo)
+- Machine Learning and AI with Python (Harvard)
 
 ---
 
