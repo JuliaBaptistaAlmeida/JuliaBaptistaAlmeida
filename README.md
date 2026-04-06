@@ -10,14 +10,14 @@
 
 ## 🛠️ Tecnologias e ferramentas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://cdn.simpleicons.org/python/3776AB" height="40"/>
+<img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40"/>
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40"/>
+<img src="https://cdn.simpleicons.org/html5/E34F26" height="40"/>
+<img src="https://cdn.simpleicons.org/css3/1572B6" height="40"/>
+<img src="https://cdn.simpleicons.org/react/61DAFB" height="40"/>
+<img src="https://cdn.simpleicons.org/git/F05032" height="40"/>
+<img src="https://cdn.simpleicons.org/github/181717" height="40"/>
 
 ---
 
