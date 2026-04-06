@@ -11,14 +11,14 @@
 ## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nodedotjs.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
 </div>
 
 ---
