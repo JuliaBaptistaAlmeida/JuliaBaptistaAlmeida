@@ -10,15 +10,15 @@
 
 ## 🛠️ Tecnologias e ferramentas
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40"/>
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40"/>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40"/>
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40"/>
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40"/>
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40"/>
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40"/>
-  <img src="https://cdn.simpleicons.org/github/181717" height="40"/>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nodedotjs.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height="40"/>
 </div>
 
 ---
