@@ -59,5 +59,13 @@ Estou sempre buscando aprender novas tecnologias, melhorar meus projetos e evolu
 ---
 
 ## 🔗 Onde me encontrar
-💼 LinkedIn: *https://www.linkedin.com/in/juliabaptistaalmeida/*  
-📫 Email: *contatojuliabaptista@hotmail.com*
+
+<div>
+  <a href="https://www.linkedin.com/in/juliabaptistaalmeida/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
+  </a>
+
+  <a href="mailto:contatojuliabaptista@hotmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40"/>
+  </a>
+</div>
