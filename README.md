@@ -1,4 +1,4 @@
-## Oii! Me chamo Julia Baptista
+## Oii, eu sou a Julia!
 
 🎓 Estudante de **Sistemas de Informação**, atualmente cursando o 5º semestre na *Universidade São Judas Tadeu*.
 
