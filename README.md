@@ -50,7 +50,6 @@ O objetivo do projeto é desenvolver a lógica, a organização do código e a f
 - JavaScript (Curso em Vídeo)
 - HTML5 + CSS3 (Curso em Vídeo)
 - Git e GitHub (Curso em Vídeo)
-- Machine Learning and AI with Python (Harvard)
 
 ---
 
