@@ -53,11 +53,6 @@ O objetivo do projeto é desenvolver a lógica, a organização do código e a f
 
 ---
 
-## 🌱 Em constante evolução
-Estou sempre buscando aprender novas tecnologias, melhorar meus projetos e evoluir como desenvolvedora, um passo de cada vez.
-
----
-
 ## 🔗 Onde me encontrar
 
 <div>
