@@ -65,7 +65,7 @@ Estou sempre buscando aprender novas tecnologias, melhorar meus projetos e evolu
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
   </a>
 
-  <a href="mailto:contatojuliabaptista@hotmail.com">
+  <a href="mailto:contatojuliabaptista@hotmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40"/>
   </a>
 </div>
