@@ -30,9 +30,9 @@ Projeto que evoluiu de uma aplicação em Python para uma versão com interface 
 
 A aplicação permite definir a quantidade de Sims (1 a 8), e cada integrante é criado com:
 
-* Gênero e idade
-* Raça/criatura (humano, vampiro, sereia, gato, cavalo, entre outros)
-* Traços de personalidade sorteados automaticamente
+* Gênero e idade;
+* Raça/criatura (humano, vampiro, sereia, gato, cavalo, entre outros);
+* Traços de personalidade sorteados automaticamente.
 
 Na versão atual, o projeto conta com interface desenvolvida em **HTML5, CSS3 e JavaScript**, tornando a experiência mais visual e acessível.
 Além disso, utiliza lógica com listas, funções e estruturas de repetição, mantendo o código organizado e fácil de expandir.
@@ -44,9 +44,9 @@ Projeto em Python inspirado no sistema de criação de personagens de Baldur’s
 
 O sistema permite:
 
-* Geração aleatória de personagens com raça, classe e histórico
-* Seleção de variações como sub-raças, subclasses e características específicas
-* Uso de listas, condicionais (if/elif), laços de repetição (while) e validação de dados
+* Geração aleatória de personagens com raça, classe e histórico;
+* Seleção de variações como sub-raças, subclasses e características específicas;
+* Uso de listas, condicionais (if/elif), laços de repetição (while) e validação de dados.
 
 O projeto foi desenvolvido como prática de fundamentos da linguagem Python, com foco em lógica, organização e clareza do código.
 
