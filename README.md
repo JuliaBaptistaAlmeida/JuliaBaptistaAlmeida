@@ -26,7 +26,7 @@
 ## 📌 Projetos em destaque
 
 👨‍👩‍👧‍👦 **Gerador de Famílias – The Sims 4 (Python + Web)**
-Projeto que evoluiu de uma aplicação em Python para uma versão com interface web, permitindo ao usuário gerar famílias aleatórias para o jogo The Sims 4 de forma mais interativa.
+Projeto que evoluiu de uma aplicação em Python para uma versão com interface web, permitindo ao usuário gerar famílias aleatórias para o jogo de forma mais interativa.
 
 A aplicação permite definir a quantidade de Sims (1 a 8), e cada integrante é criado com:
 
