@@ -2,9 +2,9 @@
 
 🎓 Estudante de **Sistemas de Informação**, atualmente cursando o 5º semestre na *Universidade São Judas Tadeu*.
 
-💡 Interessada em **desenvolvimento Full Stack**.
+💼 Estagiária de **Engenharia de Dados** no Itaú Unibanco.
 
-🚀 Aprendo colocando a mão na massa e desenvolvendo projetos práticos e divertidos.
+🚀 Aprendo na prática, explorando novas tecnologias e participando de projetos que me desafiam a evoluir constantemente.
 
 ---
 
